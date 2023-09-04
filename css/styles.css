@@ -1,0 +1,52 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4fd;
+}
+.section-solutions,
+footer {
+  background-color: #2e2f42;
+}
+header,
+.section-features,
+.section-team li,
+.section-portfolio {
+  background-color: #fff;
+}
+nav {
+  color: #27283d;
+}
+nav a {
+  color: currentColor;
+}
+address {
+  color: #434455;
+}
+address a {
+  color: currentColor;
+}
+.section-solutions h1 {
+  color: #ffffff;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.section-features h3,
+.section-team h2,
+.section-team h3,
+.section-portfolio h2,
+.section-portfolio h3 {
+  color: #2e2f42;
+}
+.section-features p,
+.section-team p,
+.section-portfolio p {
+  color: #434455;
+}
+footer {
+  color: #f4f4fd;
+}
+footer a {
+  color: currentColor;
+}
