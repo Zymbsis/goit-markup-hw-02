@@ -8,11 +8,11 @@ body {
 footer {
   background-color: #2e2f42;
 }
-header,
-.section-features,
-.section-team li,
-.section-portfolio {
-  background-color: #fff;
+.section-team {
+  background-color: #fcfcfc;
+}
+.section-team li {
+  background-color: #ffffff;
 }
 nav {
   color: #27283d;
