@@ -55,12 +55,13 @@ li {
 .section-solutions {
   background-color: #2e2f42;
 }
-.section-solutions > h1 {
+.solution-title {
   color: #ffffff;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
+  text-align: center;
 }
 .button {
   background-color: #4d5ae5;
@@ -69,80 +70,91 @@ li {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.64px;
+  text-transform: capitalize;
+  text-align: center;
+  cursor: pointer;
 }
-.section-features h3 {
+.button:hover {
+  background-color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
+}
+.section-features-items {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
 }
-.section-features p {
+.section-features-items-content {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.section-team > h2 {
-  color: #2e2f42;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-}
-.our-team-list {
+.section-team {
   background-color: #f4f4fd;
 }
-.our-team-list h3 {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
-}
-.our-team-list p {
-  color: #434455;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
-  text-transform: capitalize;
-}
-.our-team-list li {
-  background-color: #ffffff;
-}
-.section-portfolio > h2 {
+.section-team-title {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  text-align: center;
 }
-.section-portfolio h3 {
+
+.our-team-list-title {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
+}
+.our-team-list-content {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
   text-transform: capitalize;
 }
-.section-portfolio p {
+.our-team-list-items {
+  background-color: #ffffff;
+}
+.section-portfolio-main-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.section-portfolio-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+}
+.section-portfolio-content {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-footer {
+.footer {
   background-color: #2e2f42;
 }
 .logo-accent-foot {
   color: #f4f4fd;
 }
-footer > p {
+.footer-content {
   color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
