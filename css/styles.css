@@ -29,7 +29,7 @@ li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .header-link:hover {
@@ -61,7 +61,7 @@ li {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 .button {
@@ -70,7 +70,7 @@ li {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   text-transform: capitalize;
   text-align: center;
   cursor: pointer;
@@ -86,14 +86,14 @@ li {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .section-features-items-content {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .section-team {
   background-color: #f4f4fd;
@@ -103,7 +103,7 @@ li {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
 }
@@ -113,14 +113,14 @@ li {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .our-team-list-content {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .our-team-list-items {
@@ -131,7 +131,7 @@ li {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
 }
@@ -140,14 +140,14 @@ li {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .section-portfolio-content {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 .footer {
   background-color: #2e2f42;
@@ -160,5 +160,5 @@ li {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
